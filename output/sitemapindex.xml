@@ -7,46 +7,58 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://nickamaral.com/authors/nick-amaral.xml</loc>
-  <lastmod>2018-06-05T21:57:00Z</lastmod>
+  <lastmod>2018-06-06T01:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/authors/roberto-alsina.xml</loc>
-  <lastmod>2018-06-05T21:57:00Z</lastmod>
+  <lastmod>2018-06-06T01:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/categories/blog.xml</loc>
-  <lastmod>2018-06-05T21:54:00Z</lastmod>
+  <lastmod>2018-06-06T01:05:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nickamaral.com/categories/bootswatch.xml</loc>
+  <lastmod>2018-06-07T00:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/categories/cat_nikola.xml</loc>
-  <lastmod>2018-06-05T21:54:00Z</lastmod>
+  <lastmod>2018-06-06T01:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/categories/demo.xml</loc>
-  <lastmod>2018-06-05T21:54:00Z</lastmod>
+  <lastmod>2018-06-06T01:05:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nickamaral.com/categories/github-pages.xml</loc>
+  <lastmod>2018-06-07T00:55:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nickamaral.com/categories/google-domains.xml</loc>
+  <lastmod>2018-06-07T00:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/categories/nikola.xml</loc>
-  <lastmod>2018-06-05T21:54:00Z</lastmod>
+  <lastmod>2018-06-07T00:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/categories/python.xml</loc>
-  <lastmod>2018-06-05T21:54:00Z</lastmod>
+  <lastmod>2018-06-07T00:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/galleries/demo/rss.xml</loc>
-  <lastmod>2018-06-05T22:02:00Z</lastmod>
+  <lastmod>2018-06-06T22:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/galleries/rss.xml</loc>
-  <lastmod>2018-06-05T22:02:00Z</lastmod>
+  <lastmod>2018-06-06T22:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/rss.xml</loc>
-  <lastmod>2018-06-05T22:02:00Z</lastmod>
+  <lastmod>2018-06-07T00:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nickamaral.com/sitemap.xml</loc>
-  <lastmod>2018-06-05T22:02:00Z</lastmod>
+  <lastmod>2018-06-07T00:55:00Z</lastmod>
  </sitemap>
 </sitemapindex>
